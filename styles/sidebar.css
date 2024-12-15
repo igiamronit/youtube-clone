@@ -1,0 +1,30 @@
+.sidebar{
+    /* background-color: lightblue; */
+    position: fixed;
+    top: 60px;
+    left: 0px;
+    width: 75px;
+    bottom: 0px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: rgb(207, 207, 207);
+    padding-top: 30px;
+}
+
+.sidebar-elements{
+    height: 80px;
+    margin-bottom: 10px;
+    /* background-color: lightblue; */
+}
+
+.sidebar-images{
+    width: 35px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.sidebar-text{
+    font-size: 12px;
+    text-align: center;
+}
